@@ -1,0 +1,17 @@
+#include<iostream>
+int main(){
+	string str = "test";
+	float f = 13.867;
+	int a = 52399;
+	int z,x=1;
+	z = a + x;
+	x++;
+	z--;
+	z += 1;
+	cout << "Hello Word" << endl;
+	if(a != 4){
+		i++;
+	}
+	char ch [5] = {'1','h'};
+	return 0; //luofei
+}
